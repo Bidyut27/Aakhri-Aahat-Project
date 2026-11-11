@@ -1,0 +1,1200 @@
+{
+  "snapshot_date": "2026-11-11",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 123,
+      "sha256": "bfa501eeeae72852c2d68c5768c95f78e3ddb16172444d4d5bbf42a45cb82458"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2671,
+      "sha256": "1659bddaf68da941265443e80731a20b77106056067b7cb87a1577e4bfb4f79d"
+    },
+    {
+      "path": "docs/Aakhri_Aahat_Detailed_Animation_Workflow_v2.md",
+      "bytes": 36931,
+      "sha256": "663379949bd139aebd02be52b94d22b914d8fa03224daaaf37389d56f4dbe96c"
+    },
+    {
+      "path": "docs/Aakhri_Aahat_Production_Workflow.md",
+      "bytes": 14798,
+      "sha256": "59d2a26554fbc1916b5e05efdf942f542f3589cdc6090ced0346a8c501cabd7e"
+    },
+    {
+      "path": "docs/Aakhri_Aahat_Thumbnail_Preference.md",
+      "bytes": 1063,
+      "sha256": "3f44df145f6ca008023ca8c111e516a08780127f3fc7955b05f1348458a318f1"
+    },
+    {
+      "path": "docs/All_5_Videos_Social_Media_Package.md",
+      "bytes": 9200,
+      "sha256": "4c9a9b35e54e053304c18b3bb82b8da11a53ae2b293daca14c072022574db0b9"
+    },
+    {
+      "path": "docs/Animation_Standard_Update.md",
+      "bytes": 1375,
+      "sha256": "a557f35d395e35ff40a788bcc16ea62c7625aa6b386943df01c92c93f94e7e84"
+    },
+    {
+      "path": "docs/Chhat_Par_Maa_Hinglish.srt",
+      "bytes": 1152,
+      "sha256": "542af96d77e905c6b8ff83f34596f350e7e143d098dd2a8611491b174d7125e7"
+    },
+    {
+      "path": "docs/Chhat_Par_Maa_Script.md",
+      "bytes": 1961,
+      "sha256": "0da5501ff4d7b98cc354418aa0642853a345cdbaca0b851021d9d16116733c1a"
+    },
+    {
+      "path": "docs/Chhat_Par_Maa_Social_Copy.md",
+      "bytes": 1441,
+      "sha256": "13e2f65b6c6a1549afba549d5d4df94418bb4584a883f46f5513c5c75302d7ac"
+    },
+    {
+      "path": "docs/Do_Second_Late_Hinglish.srt",
+      "bytes": 1285,
+      "sha256": "d3a3e1d69a760cadf26849fed07afc4b237aae9c8b566dc4026eb2ed3a23c1c1"
+    },
+    {
+      "path": "docs/Do_Second_Late_Production_Handoff.md",
+      "bytes": 4351,
+      "sha256": "1d2bfa60b028ceb96e66584e446bfb96f7753ec16178940144ad51c9448d3ccc"
+    },
+    {
+      "path": "docs/Do_Second_Late_Social_Media.md",
+      "bytes": 589,
+      "sha256": "b0510542ddba83a8b941ff439701d1f0e57757c8b4bd55cca26da4772f28c0ab"
+    },
+    {
+      "path": "extras/cta_animation/CTA_Animated_With_Speech.mp4",
+      "bytes": 545435,
+      "sha256": "978208f107dd99b9587ea72ecf1e8630b2f591876e203a68d477bc58f2fa1be8"
+    },
+    {
+      "path": "extras/cta_animation/ambience.wav",
+      "bytes": 672044,
+      "sha256": "a41fe23544ccff78e92df0ab49282f5ff137b1437ec5bbbc62af0c5429367413"
+    },
+    {
+      "path": "extras/cta_animation/render.py",
+      "bytes": 1314,
+      "sha256": "afe148abf48e8329a86bb2a77ed8160e6e2bfbc3d60bd117d57f43061ca81037"
+    },
+    {
+      "path": "extras/cta_animation/visual.mp4",
+      "bytes": 433700,
+      "sha256": "3ab7bbe8aa5aa84c923f8061894b68f73a90fbc3ec1615c5c046b18ad854b006"
+    },
+    {
+      "path": "extras/cta_animation/voice.mp3",
+      "bytes": 104104,
+      "sha256": "8ee873e25b92a8a101234f48e9a703fabdd9a2ab6ab21273e9055fc6afd5e142"
+    },
+    {
+      "path": "projects/aakhri_diya/Narration_Hindi.txt",
+      "bytes": 1388,
+      "sha256": "24e9ecfdcc9fdf55838e28eddbcf1b5640d1cb1432d593b0c122ab8d1267f82c"
+    },
+    {
+      "path": "projects/aakhri_diya/README.md",
+      "bytes": 2234,
+      "sha256": "2a82bab0bc7e232621bb51961e8185a2ee9d7c46afe87a0c682f434840dee77a"
+    },
+    {
+      "path": "projects/aakhri_diya/Thumbnail_9x16.png",
+      "bytes": 2580742,
+      "sha256": "7ee697a3a5029b5655331fd298f24af7330f091911e794b6d71c2952121ecf6a"
+    },
+    {
+      "path": "projects/aakhri_diya/audio/Final_Mix.wav",
+      "bytes": 11520044,
+      "sha256": "76774685d0f2b5c45b6d4ab208afbca823185a02da32d2e3c3d23f2fda4ff5f9"
+    },
+    {
+      "path": "projects/aakhri_diya/audio/Music_and_Effects.wav",
+      "bytes": 11520044,
+      "sha256": "b23d416ba731b9aa614db3afd33c9523524c2066b261b308d4b59330df299b44"
+    },
+    {
+      "path": "projects/aakhri_diya/audio/Viraj_Synced.wav",
+      "bytes": 5760044,
+      "sha256": "f6815519e02537737e729e086320723569a91711c5dfb2956c541da83635a4a3"
+    },
+    {
+      "path": "projects/aakhri_diya/audio/Viraj_original.mp3",
+      "bytes": 713071,
+      "sha256": "7492c31806893d3c569856e06df95ef4f1e8475ffd4c420af306c77d7d0e9fe4"
+    },
+    {
+      "path": "projects/aakhri_diya/audio/voice_normalized.wav",
+      "bytes": 4170318,
+      "sha256": "f47d574e8b0baf07449d298b0f35ddff22f23e80a7e1c29253bef6bb75d65fe6"
+    },
+    {
+      "path": "projects/aakhri_diya/audio/word_timings.json",
+      "bytes": 7051,
+      "sha256": "8a5d33291fd8e816834f66f97c1edee050ba403770e6cdf53634540f0a2c33df"
+    },
+    {
+      "path": "projects/aakhri_diya/check_export.py",
+      "bytes": 837,
+      "sha256": "c8c0ecae63ee52bb1c2e9e808848d348e089ca7f10cd1330540f16d3ada48c9c"
+    },
+    {
+      "path": "projects/aakhri_diya/edit.json",
+      "bytes": 1390,
+      "sha256": "4236075363a43198140c70f1cd208611ff72db34f7d20af48072455cd01913e5"
+    },
+    {
+      "path": "projects/aakhri_diya/fonts/Mukta-Bold.ttf",
+      "bytes": 418416,
+      "sha256": "7d22891cd57507b04af95a67ffaf59b7073b3595a27d1cfbbcefb418de820a12"
+    },
+    {
+      "path": "projects/aakhri_diya/fonts/Mukta-ExtraBold.ttf",
+      "bytes": 423168,
+      "sha256": "328eeebffe06fac60d60b46fe60c3995a908d2347e9c285f1eef1a0c9d73e004"
+    },
+    {
+      "path": "projects/aakhri_diya/fonts/Mukta-OFL.txt",
+      "bytes": 4367,
+      "sha256": "2ee5e8e47cd7d08f60bb9555f72b25912c9e81b13f5bc9a0551ddf943da6ca98"
+    },
+    {
+      "path": "projects/aakhri_diya/fonts/Mukta-Regular.ttf",
+      "bytes": 432248,
+      "sha256": "2958e4af564507df2a856164df6f9978dacb03f999a4f34a0c269dc8a4de9688"
+    },
+    {
+      "path": "projects/aakhri_diya/output/Aakhri_Diya_1080p.mp4",
+      "bytes": 3720867,
+      "sha256": "1d1689124d26fc8f1bffed0c04e84987cc738734e6c461ace801f5d643715ff7"
+    },
+    {
+      "path": "projects/aakhri_diya/output/Aakhri_Diya_4K.mp4",
+      "bytes": 7149525,
+      "sha256": "1f2e9372f7eeac4d1f4e6ecbd488a39d9c12302d611381d665bc91187003e265"
+    },
+    {
+      "path": "projects/aakhri_diya/output/Aakhri_Diya_Hinglish.srt",
+      "bytes": 1215,
+      "sha256": "bfe80b3539d320aaf463ed4bf36bf11543446c25c44ea0ca53bda3a75a20d6c2"
+    },
+    {
+      "path": "projects/aakhri_diya/prepare.py",
+      "bytes": 5604,
+      "sha256": "7268a9414570cc2a1d7f329eff33699ca1b0ed5e49280061b3c40e889f1da967"
+    },
+    {
+      "path": "projects/aakhri_diya/primitives.py",
+      "bytes": 1657,
+      "sha256": "9a644545bd5a26d3c732f1c9aa8b78970910cf5294c4130c5ad617d232150dfb"
+    },
+    {
+      "path": "projects/aakhri_diya/render.py",
+      "bytes": 13733,
+      "sha256": "a56a5abc9b9410c7b532d14a2f693f1e0bc62f57fde0555f65629d5bc274ac4c"
+    },
+    {
+      "path": "projects/aakhri_diya/requirements.txt",
+      "bytes": 19,
+      "sha256": "11fa2c80dfc563bb4a2858a024662dcb8ec48cf2c376403a12999a62dce5ab17"
+    },
+    {
+      "path": "projects/aakhri_diya/timeline.json",
+      "bytes": 2029,
+      "sha256": "e59a849eab8dea4e115bf14441e69e0356e2c3c1467643ad613a517b19b04b6b"
+    },
+    {
+      "path": "projects/attendance/Narration_Hindi.txt",
+      "bytes": 1635,
+      "sha256": "1f7da041bc27f17ed0a5c2afc7d23f3bb34fdcdcb4bec1c7edd5bc9568a35592"
+    },
+    {
+      "path": "projects/attendance/README.md",
+      "bytes": 2810,
+      "sha256": "1790d30911c9d0100a3313e6b5ebd5faf7b19812f471d441bff0dbde694ba75f"
+    },
+    {
+      "path": "projects/attendance/Thumbnail_9x16.png",
+      "bytes": 2749386,
+      "sha256": "df73b7e36675f97f49527a09ed93ed525c08af8345dd9ddd2aea6184cfaa474b"
+    },
+    {
+      "path": "projects/attendance/audio/Final_Mix.wav",
+      "bytes": 11520044,
+      "sha256": "eb4563438c8ff2643d866449b2a2fb1722e74fee756e91e51d13601800b6a7b5"
+    },
+    {
+      "path": "projects/attendance/audio/Music_and_Effects.wav",
+      "bytes": 11520044,
+      "sha256": "39e7d7b5959566526b9453227381c7044ebc716bca7edc41ff8f5cc9c8f79177"
+    },
+    {
+      "path": "projects/attendance/audio/Viraj_Synced.wav",
+      "bytes": 5760044,
+      "sha256": "e447c226cf418514cf702a21ad9d29b702edbe2bc33b8d65118b804de6f30349"
+    },
+    {
+      "path": "projects/attendance/audio/Viraj_original.mp3",
+      "bytes": 755284,
+      "sha256": "d0278a7a6d38cab8fe2fb12218edd142f24a59ada5fd17b6a7d89d4144141104"
+    },
+    {
+      "path": "projects/attendance/audio/voice_normalized.wav",
+      "bytes": 4423758,
+      "sha256": "4584d12e3de28a0d2de6258dc001c812d5d066491fc62a8f09859c67dc991b5f"
+    },
+    {
+      "path": "projects/attendance/audio/word_timings.json",
+      "bytes": 7753,
+      "sha256": "5eeae22e993ea245e1c8a9497244a2fdaaaed11ff0b1f65a8b5a522dd58e5f6b"
+    },
+    {
+      "path": "projects/attendance/check_export.py",
+      "bytes": 835,
+      "sha256": "d8e5ada3e0d8617c61093fdd66db47cc4328de0cf5742e28fd24182981bb2f9f"
+    },
+    {
+      "path": "projects/attendance/edit.json",
+      "bytes": 1505,
+      "sha256": "5f880ce4fac1b2b8a70ff93c067c401cf68f25074c22621fc4966b98efcd2c2c"
+    },
+    {
+      "path": "projects/attendance/fonts/Mukta-Bold.ttf",
+      "bytes": 418416,
+      "sha256": "7d22891cd57507b04af95a67ffaf59b7073b3595a27d1cfbbcefb418de820a12"
+    },
+    {
+      "path": "projects/attendance/fonts/Mukta-ExtraBold.ttf",
+      "bytes": 423168,
+      "sha256": "328eeebffe06fac60d60b46fe60c3995a908d2347e9c285f1eef1a0c9d73e004"
+    },
+    {
+      "path": "projects/attendance/fonts/Mukta-OFL.txt",
+      "bytes": 4367,
+      "sha256": "2ee5e8e47cd7d08f60bb9555f72b25912c9e81b13f5bc9a0551ddf943da6ca98"
+    },
+    {
+      "path": "projects/attendance/fonts/Mukta-Regular.ttf",
+      "bytes": 432248,
+      "sha256": "2958e4af564507df2a856164df6f9978dacb03f999a4f34a0c269dc8a4de9688"
+    },
+    {
+      "path": "projects/attendance/output/Attendance_1080p.mp4",
+      "bytes": 2867684,
+      "sha256": "f16938b5b3b88a880674e31c6094f57c7b785b8a284fc9bb2db46dcf80619006"
+    },
+    {
+      "path": "projects/attendance/output/Attendance_4K.mp4",
+      "bytes": 4854665,
+      "sha256": "d48644e64a8d879d779667bdfd1d0d0fe55b9b32ed62ecaf2ed3799b84195fd3"
+    },
+    {
+      "path": "projects/attendance/output/Attendance_Hinglish.srt",
+      "bytes": 1514,
+      "sha256": "5d9ba12b4daa9ca0e3be85b4f3bb8a04bdcb23d065f4459a9025020743b6425c"
+    },
+    {
+      "path": "projects/attendance/output/Attendance_Social_Media.md",
+      "bytes": 2308,
+      "sha256": "e46dde990ed14e98cb4e6f891c689199f07ec5bb1e765025d77bf0b906cbf30a"
+    },
+    {
+      "path": "projects/attendance/prepare.py",
+      "bytes": 6173,
+      "sha256": "de6eeafff8727cf8b57d53b05a6fe49aefb070a9b5d6de18aaa76b1728569fe2"
+    },
+    {
+      "path": "projects/attendance/primitives.py",
+      "bytes": 1657,
+      "sha256": "9a644545bd5a26d3c732f1c9aa8b78970910cf5294c4130c5ad617d232150dfb"
+    },
+    {
+      "path": "projects/attendance/render.py",
+      "bytes": 15367,
+      "sha256": "1535ad190b90217563b41797cd640c4899df113c0759993294e795457487a38a"
+    },
+    {
+      "path": "projects/attendance/requirements.txt",
+      "bytes": 19,
+      "sha256": "11fa2c80dfc563bb4a2858a024662dcb8ec48cf2c376403a12999a62dce5ab17"
+    },
+    {
+      "path": "projects/attendance/timeline.json",
+      "bytes": 2558,
+      "sha256": "266e5133d517a8b922c92d6c4c59c15278d17bfb6b4e628b91911ff17e9b61a1"
+    },
+    {
+      "path": "projects/chhat_par_maa/README.md",
+      "bytes": 1669,
+      "sha256": "39eb6b99a204cfaa236739c07a8c22043daf0d40f278a03e4e5442a67ff26ee2"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/00_narrator.mp3",
+      "bytes": 22896,
+      "sha256": "dfd08c0c0c7b46846942ae8f316bb3bbbef03c6f6b1ed672b6ba56686a59a151"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/00_narrator.wav",
+      "bytes": 366414,
+      "sha256": "1c92f9fb2a8f87084346367e5b6752ded13da43a897e4c6b9be8ba0db07a75d0"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/01_below.mp3",
+      "bytes": 27216,
+      "sha256": "9a4468eb88809b5569000e6cd5b72c97096ba5b238599f11868381dfd68b0033"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/01_below.wav",
+      "bytes": 435534,
+      "sha256": "7e2e354797c543b9618c082ef35d059176bc98958cb472d63d778d953e05985f"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/02_narrator.mp3",
+      "bytes": 36000,
+      "sha256": "616a04f9b2c870fc7574e2501470ae609218db02c3a46e8f8f8fb7057421f9a8"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/02_narrator.wav",
+      "bytes": 576078,
+      "sha256": "d9be4b161fad754ae81cc7ee8dd2995a27202963169463356a33f4fc06343ec2"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/03_narrator.mp3",
+      "bytes": 28512,
+      "sha256": "37e1d5a8ae722b7839c67bc78e9473bb3a7623ba65a0f31bff1f3bdf4cf9e132"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/03_narrator.wav",
+      "bytes": 456270,
+      "sha256": "08bd3425d1c73916e106f4e0eb7bab7092cb3f02df6e1f81f1b2c5d62e3607a1"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/04_phone.mp3",
+      "bytes": 57456,
+      "sha256": "a19809de309a97bbac0122905499b52d9b352a9ecad3f8a3867e2f47da300892"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/04_phone.wav",
+      "bytes": 919374,
+      "sha256": "e7ea9430837f27016e52dfe3132c799533928aaba8e1fa8c12d56c2e15aafcbf"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/05_narrator.mp3",
+      "bytes": 20160,
+      "sha256": "8a1c9c04e7e056d44c2f0144a53b7de148c7f7994325d1fdc4859e5446b9492b"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/05_narrator.wav",
+      "bytes": 322638,
+      "sha256": "1bfb07da2b47ed40318f9b015ecc899c86f69871210b42b37d37ac3e53f22111"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/06_below.mp3",
+      "bytes": 26928,
+      "sha256": "f0c9a003eabe8f15b1be84f272ad27b248cf64ec11d31e9bcfaa83b9806d45ed"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/06_below.wav",
+      "bytes": 430926,
+      "sha256": "af6dd4ffc69917414059246cbb8f04e09e0c9406755021137fa4dbaa80b4064f"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/07_narrator.mp3",
+      "bytes": 24624,
+      "sha256": "d57ea1eae7866a6d59440486a9a1b7b923ebb8a63164c3fa4aea6e4dcca78232"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/07_narrator.wav",
+      "bytes": 394062,
+      "sha256": "d3b920a94bb4e5783de2dd060e13ce34274891e3ef54b5d634dbf0d844f59e35"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/08_phone.mp3",
+      "bytes": 18144,
+      "sha256": "0a0741161fc1a8594e6c106b23d9cb6e665a4bd1ca1743e6b6e29fbdb0881755"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/08_phone.wav",
+      "bytes": 290382,
+      "sha256": "ddbd546a4d23746ddf806f745833a3af661aa59a056f0b5070561f9731da3e29"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/09_narrator.mp3",
+      "bytes": 26064,
+      "sha256": "f311c91a5c69b72ff88534e9b4ca514d71ed272a118630b059000fe97890306a"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/09_narrator.wav",
+      "bytes": 417102,
+      "sha256": "a8d8f26023491c0b851600ad45fe48a93757ff2b6e65a9dbebefcbb71aa76cd9"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/10_narrator.mp3",
+      "bytes": 22176,
+      "sha256": "0ef21074b7e94354d5df4611fd180c3fef64ff1c9ae13ba16a19f5f29c8a5246"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/10_narrator.wav",
+      "bytes": 354894,
+      "sha256": "8fbaf5fe3b6627bbf43d306047b4a465bc3d9a036d2c93181afd687d186b993d"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/11_presence.mp3",
+      "bytes": 15984,
+      "sha256": "745433809c76b097ca833ab13fbeff07e078bf7efb2a646658cbc181857a7a79"
+    },
+    {
+      "path": "projects/chhat_par_maa/audio/11_presence.wav",
+      "bytes": 255822,
+      "sha256": "da86017e0207b31c1e24447ad6785f23d9eb70941db1156a329e6e439208a536"
+    },
+    {
+      "path": "projects/chhat_par_maa/fonts/Mukta-Bold.ttf",
+      "bytes": 418416,
+      "sha256": "7d22891cd57507b04af95a67ffaf59b7073b3595a27d1cfbbcefb418de820a12"
+    },
+    {
+      "path": "projects/chhat_par_maa/fonts/Mukta-OFL.txt",
+      "bytes": 4367,
+      "sha256": "2ee5e8e47cd7d08f60bb9555f72b25912c9e81b13f5bc9a0551ddf943da6ca98"
+    },
+    {
+      "path": "projects/chhat_par_maa/fonts/Mukta-Regular.ttf",
+      "bytes": 432248,
+      "sha256": "2958e4af564507df2a856164df6f9978dacb03f999a4f34a0c269dc8a4de9688"
+    },
+    {
+      "path": "projects/chhat_par_maa/output/Chhat_Par_Maa_1080p.mp4",
+      "bytes": 20813025,
+      "sha256": "23c2c9a718a48492bb64806d8537469938c40a072c37977bdde59b64c7558ce2"
+    },
+    {
+      "path": "projects/chhat_par_maa/output/Chhat_Par_Maa_4K.mp4",
+      "bytes": 46002438,
+      "sha256": "e480db88afc8470fa2261174ca8c5c64b8130fff2cffa17e934a164c2570c851"
+    },
+    {
+      "path": "projects/chhat_par_maa/output/Chhat_Par_Maa_Hinglish.srt",
+      "bytes": 1152,
+      "sha256": "542af96d77e905c6b8ff83f34596f350e7e143d098dd2a8611491b174d7125e7"
+    },
+    {
+      "path": "projects/chhat_par_maa/output/Chhat_Par_Maa_Mix.wav",
+      "bytes": 14208044,
+      "sha256": "c4ee32b7003a662750e0b4dfa4481cc9257b7bea9c62f5421ccfa90b09390fd2"
+    },
+    {
+      "path": "projects/chhat_par_maa/output/Chhat_Par_Maa_Script.md",
+      "bytes": 1961,
+      "sha256": "0da5501ff4d7b98cc354418aa0642853a345cdbaca0b851021d9d16116733c1a"
+    },
+    {
+      "path": "projects/chhat_par_maa/output/Chhat_Par_Maa_Social_Copy.md",
+      "bytes": 1441,
+      "sha256": "13e2f65b6c6a1549afba549d5d4df94418bb4584a883f46f5513c5c75302d7ac"
+    },
+    {
+      "path": "projects/chhat_par_maa/output/Chhat_Par_Maa_Thumbnail.png",
+      "bytes": 127882,
+      "sha256": "04cc67ca626789a54f582f9dc2f11d63f92e44cff34cefea668a7ab3d6186a49"
+    },
+    {
+      "path": "projects/chhat_par_maa/primitives.py",
+      "bytes": 1657,
+      "sha256": "9a644545bd5a26d3c732f1c9aa8b78970910cf5294c4130c5ad617d232150dfb"
+    },
+    {
+      "path": "projects/chhat_par_maa/qa_report.json",
+      "bytes": 599,
+      "sha256": "c54204818ca8d51e4ba31841ed2a642718b058461a1dae0b5c3b0b45536486b9"
+    },
+    {
+      "path": "projects/chhat_par_maa/render.py",
+      "bytes": 14867,
+      "sha256": "3e5cf65a9c7e9c95ef8e5c2362ec1cfa43b9dd108b960ce2f8c1177d2ae29011"
+    },
+    {
+      "path": "projects/chhat_par_maa/requirements.txt",
+      "bytes": 51,
+      "sha256": "926c265850787168befff5acbf1b9df198a37c7c61db9ca2ba992ffe454a685d"
+    },
+    {
+      "path": "projects/chhat_par_maa/rig.py",
+      "bytes": 3498,
+      "sha256": "4baafc68daab19a49c3d7d256148abf5736a55810a1624ab9ee50446cde1b09e"
+    },
+    {
+      "path": "projects/chhat_par_maa/thumbnail.py",
+      "bytes": 694,
+      "sha256": "b774998a503fee48fbcd4d4a0e4ced76f16b7387acddfd5d02af100ecda79cf5"
+    },
+    {
+      "path": "projects/chhat_par_maa/timeline.json",
+      "bytes": 3469,
+      "sha256": "5de7b751af782851f745ded35f04ae7e1ae88becf02e9c0683be0d7d83f7a23d"
+    },
+    {
+      "path": "projects/chhat_par_maa/voices.py",
+      "bytes": 3121,
+      "sha256": "92f128f5dc5de0aaaad900302ae3a4371a8d6f0fa983cc25f076aada13797c4e"
+    },
+    {
+      "path": "projects/do_second_late/README.md",
+      "bytes": 1403,
+      "sha256": "bb78b8b680ae8a43f60b3a72611627c6d2308f94582edb5ff2a01850bbf2f6b3"
+    },
+    {
+      "path": "projects/do_second_late/fonts/Mukta-Bold.ttf",
+      "bytes": 418416,
+      "sha256": "7d22891cd57507b04af95a67ffaf59b7073b3595a27d1cfbbcefb418de820a12"
+    },
+    {
+      "path": "projects/do_second_late/fonts/Mukta-OFL.txt",
+      "bytes": 4367,
+      "sha256": "2ee5e8e47cd7d08f60bb9555f72b25912c9e81b13f5bc9a0551ddf943da6ca98"
+    },
+    {
+      "path": "projects/do_second_late/fonts/Mukta-Regular.ttf",
+      "bytes": 432248,
+      "sha256": "2958e4af564507df2a856164df6f9978dacb03f999a4f34a0c269dc8a4de9688"
+    },
+    {
+      "path": "projects/do_second_late/output/Do_Second_Late_1080p.mp4",
+      "bytes": 31902856,
+      "sha256": "e3bba51ba26852ab74794bfc5793e3dc23dd3ecfc5f6d4fc55dc00c3f35c8e5a"
+    },
+    {
+      "path": "projects/do_second_late/output/Do_Second_Late_4K.mp4",
+      "bytes": 73607344,
+      "sha256": "c02bfb4812484fdc0fdc423bf4e26301382a5d9454d47ad5965bc28ce1462f18"
+    },
+    {
+      "path": "projects/do_second_late/output/Do_Second_Late_Hinglish.srt",
+      "bytes": 1285,
+      "sha256": "d3a3e1d69a760cadf26849fed07afc4b237aae9c8b566dc4026eb2ed3a23c1c1"
+    },
+    {
+      "path": "projects/do_second_late/output/Do_Second_Late_Mix.wav",
+      "bytes": 11520044,
+      "sha256": "34f2e5ba086164ecf24e32384534062fbe8bf14d4e59ab904c046571c46a491d"
+    },
+    {
+      "path": "projects/do_second_late/output/Do_Second_Late_Social_Media.md",
+      "bytes": 589,
+      "sha256": "b0510542ddba83a8b941ff439701d1f0e57757c8b4bd55cca26da4772f28c0ab"
+    },
+    {
+      "path": "projects/do_second_late/output/Do_Second_Late_Thumbnail_9x16.png",
+      "bytes": 149846,
+      "sha256": "c547b646db8d383bba8c5a6c1ef529d086f6a12a2379f09bfffa3b36dbdde992"
+    },
+    {
+      "path": "projects/do_second_late/output/Timing_QC.json",
+      "bytes": 357,
+      "sha256": "46c15a0b6b2d19032460ae76d8f596f8353ab1a4b177074e57334a672196adc1"
+    },
+    {
+      "path": "projects/do_second_late/output/raw.wav",
+      "bytes": 4323918,
+      "sha256": "36e3eb8cf284d0f00afe8f6ce13cd89e5ffc6e364c8c66b5cdfdad766de74075"
+    },
+    {
+      "path": "projects/do_second_late/primitives.py",
+      "bytes": 1657,
+      "sha256": "9a644545bd5a26d3c732f1c9aa8b78970910cf5294c4130c5ad617d232150dfb"
+    },
+    {
+      "path": "projects/do_second_late/render.py",
+      "bytes": 15799,
+      "sha256": "dc3fe7e1ff44a821d543e08cf22065c5ed37d72ced6b53e17e0143563be963a4"
+    },
+    {
+      "path": "projects/do_second_late/requirements.txt",
+      "bytes": 19,
+      "sha256": "11fa2c80dfc563bb4a2858a024662dcb8ec48cf2c376403a12999a62dce5ab17"
+    },
+    {
+      "path": "projects/doosra_helmet/Narration_Hindi.txt",
+      "bytes": 1486,
+      "sha256": "fa198b85c9807f442a80bb5a84834db23dfb6213bcc88837200e406f0a2b2ecb"
+    },
+    {
+      "path": "projects/doosra_helmet/README.md",
+      "bytes": 2385,
+      "sha256": "b51b6352345d73f85870d0c1351fa4d8f74219bcc4e19c1ad52b4fb1c123c626"
+    },
+    {
+      "path": "projects/doosra_helmet/Thumbnail_9x16.png",
+      "bytes": 2948130,
+      "sha256": "d7ad65e61dc89c7617462e8f39a9b61b939e5779ad8eb1207e5b6326bcf76ccd"
+    },
+    {
+      "path": "projects/doosra_helmet/audio/Final_Mix.wav",
+      "bytes": 11520044,
+      "sha256": "b9a2afcbde72893882c57eef6ba7872816dc7c78378b96cc315e824ecabb1604"
+    },
+    {
+      "path": "projects/doosra_helmet/audio/Music_and_Effects.wav",
+      "bytes": 11520044,
+      "sha256": "a8fbfa38fbcb7461b06d246733b5648fadeb9d5a15ad9772337e3b5860db48a7"
+    },
+    {
+      "path": "projects/doosra_helmet/audio/Viraj_Synced.wav",
+      "bytes": 5760044,
+      "sha256": "b4b218d894345b8616280f0bca2ef148afd4df41978b8ce95a1845ee6bdd53c5"
+    },
+    {
+      "path": "projects/doosra_helmet/audio/Viraj_original.mp3",
+      "bytes": 742746,
+      "sha256": "fd52dcf69e832aeda78b9fb84954cae8e5b047425d37be8f9bb5716ba1d43f4e"
+    },
+    {
+      "path": "projects/doosra_helmet/audio/voice_normalized.wav",
+      "bytes": 4346958,
+      "sha256": "cd604174c6ca7fd5f01e5f76927459263ddf883c1e36f9247fa34526954d4321"
+    },
+    {
+      "path": "projects/doosra_helmet/audio/word_timings.json",
+      "bytes": 7128,
+      "sha256": "d899e2294b5f1cbb2d8a30109e63359cd2c02cbc180a8199e66ecfb30d0fca2e"
+    },
+    {
+      "path": "projects/doosra_helmet/check_export.py",
+      "bytes": 841,
+      "sha256": "01654324722f872dc220e182b057f6ec15821c574dbb31fcc24312041c624722"
+    },
+    {
+      "path": "projects/doosra_helmet/edit.json",
+      "bytes": 1241,
+      "sha256": "754a3a2f1d4eb43c9b9b6a19f8586fd1488873da1ba664d2a6a1288ce24e9dc4"
+    },
+    {
+      "path": "projects/doosra_helmet/fonts/Mukta-Bold.ttf",
+      "bytes": 418416,
+      "sha256": "7d22891cd57507b04af95a67ffaf59b7073b3595a27d1cfbbcefb418de820a12"
+    },
+    {
+      "path": "projects/doosra_helmet/fonts/Mukta-ExtraBold.ttf",
+      "bytes": 423168,
+      "sha256": "328eeebffe06fac60d60b46fe60c3995a908d2347e9c285f1eef1a0c9d73e004"
+    },
+    {
+      "path": "projects/doosra_helmet/fonts/Mukta-OFL.txt",
+      "bytes": 4367,
+      "sha256": "2ee5e8e47cd7d08f60bb9555f72b25912c9e81b13f5bc9a0551ddf943da6ca98"
+    },
+    {
+      "path": "projects/doosra_helmet/fonts/Mukta-Regular.ttf",
+      "bytes": 432248,
+      "sha256": "2958e4af564507df2a856164df6f9978dacb03f999a4f34a0c269dc8a4de9688"
+    },
+    {
+      "path": "projects/doosra_helmet/output/Doosra_Helmet_1080p.mp4",
+      "bytes": 4984303,
+      "sha256": "8b14cf66e3b25f9958b2345b91517f713ebc811c1a9ec8ad2c8299d262c5dfdb"
+    },
+    {
+      "path": "projects/doosra_helmet/output/Doosra_Helmet_4K.mp4",
+      "bytes": 8914151,
+      "sha256": "be7e677645fa39f630e1ccb30e831c5be2c00766c9232e23aa91a8ef2ca322c2"
+    },
+    {
+      "path": "projects/doosra_helmet/output/Doosra_Helmet_Hinglish.srt",
+      "bytes": 1346,
+      "sha256": "bff7c47bd8607ece704def2675a7c165c14cdcee1b804b198cf6c3009946b9c6"
+    },
+    {
+      "path": "projects/doosra_helmet/output/Doosra_Helmet_Social_Media.md",
+      "bytes": 2210,
+      "sha256": "3854a4bee9bf1d5926e852a1633a5747ace4ff3d5afcd752bff503561e1c9c0a"
+    },
+    {
+      "path": "projects/doosra_helmet/prepare.py",
+      "bytes": 5451,
+      "sha256": "56dd6e491f68be723cba3c304108379f70e10ee0bff5edeed44ce49847e3d41b"
+    },
+    {
+      "path": "projects/doosra_helmet/primitives.py",
+      "bytes": 1657,
+      "sha256": "9a644545bd5a26d3c732f1c9aa8b78970910cf5294c4130c5ad617d232150dfb"
+    },
+    {
+      "path": "projects/doosra_helmet/render.py",
+      "bytes": 11514,
+      "sha256": "4f8b76debdf405355ddd63650cb021ccfffbd5ef6503a29c19c6b2e20d394c61"
+    },
+    {
+      "path": "projects/doosra_helmet/requirements.txt",
+      "bytes": 19,
+      "sha256": "11fa2c80dfc563bb4a2858a024662dcb8ec48cf2c376403a12999a62dce5ab17"
+    },
+    {
+      "path": "projects/doosra_helmet/timeline.json",
+      "bytes": 2289,
+      "sha256": "306c7da91263e2bfd111399712326b9cee980f70ad051c7b26ad8196261399d9"
+    },
+    {
+      "path": "projects/ek_floor_neeche/Edit_Map.md",
+      "bytes": 1950,
+      "sha256": "2c9994c4f5e6b7fa2db839b70dac602da44794542484acfa4381d1f2ed5a4cf5"
+    },
+    {
+      "path": "projects/ek_floor_neeche/Narration_Hindi.txt",
+      "bytes": 2364,
+      "sha256": "d459bba20d54f4343293120048908d776f256368a786c04ad1d383b38b948822"
+    },
+    {
+      "path": "projects/ek_floor_neeche/README.md",
+      "bytes": 3244,
+      "sha256": "da1974985bd33ba8ee972f9d8d2f57b2ce5c6ceaf6f0bce441b95414bad6466c"
+    },
+    {
+      "path": "projects/ek_floor_neeche/audio/Final_Mix.wav",
+      "bytes": 16198444,
+      "sha256": "80b6c780eeeac8f4ef95b33ece875cf2e1a0269ebeddc75a9b99d74271504bde"
+    },
+    {
+      "path": "projects/ek_floor_neeche/audio/Music_and_Effects.wav",
+      "bytes": 16198444,
+      "sha256": "0f64e95929112a0b74a9681b7695bed4facae15ce7470bdfdb1c04c9e9b8cc7f"
+    },
+    {
+      "path": "projects/ek_floor_neeche/audio/Viraj_Synced.wav",
+      "bytes": 8099244,
+      "sha256": "31e8b3ee9a804f1a53cddb74cd0b9b2c9c0ca863408ca212f2875e08a259139d"
+    },
+    {
+      "path": "projects/ek_floor_neeche/audio/Viraj_original.mp3",
+      "bytes": 1156107,
+      "sha256": "481897ff1ff9b1bb4a90373b34a3f82dd620806198945e758fcd0a58a51bfbd3"
+    },
+    {
+      "path": "projects/ek_floor_neeche/audio/voice_normalized.wav",
+      "bytes": 6827598,
+      "sha256": "8f988a659b4f93a1dae00ed4da4ac11ca21e77528086b3bdc646e1d736fe7e54"
+    },
+    {
+      "path": "projects/ek_floor_neeche/audio/word_timings.json",
+      "bytes": 11975,
+      "sha256": "3f021f9296720fc2139e78514501ed01d74812ae694b730d77898c8d697e156f"
+    },
+    {
+      "path": "projects/ek_floor_neeche/output/Ek_Floor_Neeche_1080p.mp4",
+      "bytes": 6123378,
+      "sha256": "0f81c34ec2a8afe7a9cb7435272a6916c0166fb1f87eef078be94d106de0ff69"
+    },
+    {
+      "path": "projects/ek_floor_neeche/output/Ek_Floor_Neeche_4K.mp4",
+      "bytes": 9485630,
+      "sha256": "c42b765aa6fc2cc0db2064d814c15289bad98f8c1c9f9e42814a2881531552df"
+    },
+    {
+      "path": "projects/ek_floor_neeche/output/Ek_Floor_Neeche_Hinglish.srt",
+      "bytes": 1984,
+      "sha256": "134209648c7f723f6cff58a401c41b64988afeff098d02130e158a79d8e4cb70"
+    },
+    {
+      "path": "projects/ek_floor_neeche/prepare.py",
+      "bytes": 5995,
+      "sha256": "c2528ac41e6689f355aa4743ad73df055c4d78f9c79012c022979335a81ec33f"
+    },
+    {
+      "path": "projects/ek_floor_neeche/primitives.py",
+      "bytes": 1624,
+      "sha256": "6015c0208eee086091942b321b356f4f07a970edb27fd6a8264e0ff40239dfb5"
+    },
+    {
+      "path": "projects/ek_floor_neeche/render.py",
+      "bytes": 15856,
+      "sha256": "20b1130d9c4bd9a7e75e2d31fdc2900c6f367f1eddd59e964d30837936979ecf"
+    },
+    {
+      "path": "projects/ek_floor_neeche/requirements.txt",
+      "bytes": 19,
+      "sha256": "11fa2c80dfc563bb4a2858a024662dcb8ec48cf2c376403a12999a62dce5ab17"
+    },
+    {
+      "path": "projects/ek_floor_neeche/timeline.json",
+      "bytes": 6441,
+      "sha256": "5b4f54457c61be268ca978fbd70b154248106c375bc8ef364149d02f510202f0"
+    },
+    {
+      "path": "projects/ginti_mat_karna/Edit_Map.md",
+      "bytes": 1519,
+      "sha256": "2ffe8414a23f5e78ace7a0c359c8c8484c065aa6f7f12aa230f2456b327ba6ab"
+    },
+    {
+      "path": "projects/ginti_mat_karna/Narration_Hindi.txt",
+      "bytes": 1672,
+      "sha256": "a89f56f267d09a6658ec53993e08f212a5664860abe7974d0186fea758ffee08"
+    },
+    {
+      "path": "projects/ginti_mat_karna/README.md",
+      "bytes": 3341,
+      "sha256": "f7c5a90840258159ef8e1bffdb343c3e5fcbbabe56391604172c131b6fe76f1d"
+    },
+    {
+      "path": "projects/ginti_mat_karna/audio/Final_Mix.wav",
+      "bytes": 13900844,
+      "sha256": "395d08d45c658b2f8cd8be758b36c2f428e82a4f41a4667856243f6d75761c1d"
+    },
+    {
+      "path": "projects/ginti_mat_karna/audio/Music_and_Effects.wav",
+      "bytes": 13900844,
+      "sha256": "ef9d98c61a4a2519c77bf348546af129c0f83294a278c45a06a6fc3b7d8cad66"
+    },
+    {
+      "path": "projects/ginti_mat_karna/audio/Viraj_Synced.wav",
+      "bytes": 6950444,
+      "sha256": "77d4a81909b44551e7f14a297f471d9737f31e70bdf201e14953607b7f18a930"
+    },
+    {
+      "path": "projects/ginti_mat_karna/audio/Viraj_original.mp3",
+      "bytes": 857684,
+      "sha256": "24001d7869a8b62f2ee7f9d0e5a6883fe32c85de7ade9d54f00936520f2048d8"
+    },
+    {
+      "path": "projects/ginti_mat_karna/audio/voice_normalized.wav",
+      "bytes": 5038158,
+      "sha256": "20935af2aebdc1d7a7fe9d262046dbf4d628aa708b02be6a603aa58fd8c1386c"
+    },
+    {
+      "path": "projects/ginti_mat_karna/audio/word_timings.json",
+      "bytes": 8266,
+      "sha256": "e135f8fa3905c651caf33c09eb4a3344a9cd4285f5e1af2816b8624fe28a1eb0"
+    },
+    {
+      "path": "projects/ginti_mat_karna/output/Ginti_Mat_Karna_1080p.mp4",
+      "bytes": 6201323,
+      "sha256": "ac8b1d7ea3a4c2df526101d11c987462b53dca50b75f798a23b4b7d34bffa7f7"
+    },
+    {
+      "path": "projects/ginti_mat_karna/output/Ginti_Mat_Karna_4K.mp4",
+      "bytes": 10219932,
+      "sha256": "314078c48fc518adb078428e6d8af8a84c7e6f4a9d9d4784ebad30f822c994b3"
+    },
+    {
+      "path": "projects/ginti_mat_karna/output/Ginti_Mat_Karna_Hinglish.srt",
+      "bytes": 1469,
+      "sha256": "f2fceb63009004ca73b7a4f87770623455a98237d4364ba97f12fe4c4811938a"
+    },
+    {
+      "path": "projects/ginti_mat_karna/prepare.py",
+      "bytes": 5443,
+      "sha256": "41d7e99870fd0fdd18f462396b895997b1af09bf46053d19ebfdb2e0e000c804"
+    },
+    {
+      "path": "projects/ginti_mat_karna/primitives.py",
+      "bytes": 1624,
+      "sha256": "6015c0208eee086091942b321b356f4f07a970edb27fd6a8264e0ff40239dfb5"
+    },
+    {
+      "path": "projects/ginti_mat_karna/render.py",
+      "bytes": 14023,
+      "sha256": "11d22a809536f30f69a8b6608c9e714757b2958f800e48735b7ba78a366112d1"
+    },
+    {
+      "path": "projects/ginti_mat_karna/requirements.txt",
+      "bytes": 19,
+      "sha256": "11fa2c80dfc563bb4a2858a024662dcb8ec48cf2c376403a12999a62dce5ab17"
+    },
+    {
+      "path": "projects/ginti_mat_karna/timeline.json",
+      "bytes": 5186,
+      "sha256": "3320e1c327c710e3483227b6c429efb7f528e99bd1331eccec24005dffc92a16"
+    },
+    {
+      "path": "projects/kal_ki_recording/Narration_Hindi.md",
+      "bytes": 2362,
+      "sha256": "731510fe4877af514fe9f631986c03fa4b9a0b9129d5864e50fd1d4d15a0b68a"
+    },
+    {
+      "path": "projects/kal_ki_recording/README.md",
+      "bytes": 3054,
+      "sha256": "9b80872b3492e1fe5b919681f12a02d2f537e7a1178f25136fa5290ca62d9509"
+    },
+    {
+      "path": "projects/kal_ki_recording/narrated/Final_Mix.wav",
+      "bytes": 15609644,
+      "sha256": "7cf291591f4bc76136ebd906d0c079d2cd941732eb1d4afd06db718e2e61bdd1"
+    },
+    {
+      "path": "projects/kal_ki_recording/narrated/Final_Mix_Corrected.wav",
+      "bytes": 15609644,
+      "sha256": "ae9f4a75417e7eb1a0acf9c526dee4b84239c7807902de710da992b05f579803"
+    },
+    {
+      "path": "projects/kal_ki_recording/narrated/Kal_Ki_Recording_2D_1080p.mp4",
+      "bytes": 4332675,
+      "sha256": "6287485ced1ecee60bcc62804d32ca63289687ced684a9e5e59ecd511550ce31"
+    },
+    {
+      "path": "projects/kal_ki_recording/narrated/Kal_Ki_Recording_2D_4K.mp4",
+      "bytes": 7467189,
+      "sha256": "9194f43860b8d4bc663a040e1a01c0acd5b3669c569d1a60d993277f84f6b852"
+    },
+    {
+      "path": "projects/kal_ki_recording/narrated/Kal_Ki_Recording_Hinglish_Synced.srt",
+      "bytes": 1538,
+      "sha256": "ecce1ba7747dbd1e2ba9f65155598214ebcf9c950718da6d1b2b95cc1693d01d"
+    },
+    {
+      "path": "projects/kal_ki_recording/narrated/Viraj_Synced_Voice.wav",
+      "bytes": 7804844,
+      "sha256": "c70510c7c539cb7a98a4c0816ef71242c51c8a16b6793aa9a7395fdd66380c65"
+    },
+    {
+      "path": "projects/kal_ki_recording/narrated/Viraj_original.mp3",
+      "bytes": 951307,
+      "sha256": "7b1a0ef724e3e068590f869acfac7e91ac72f39d3657209531b3b4ae254cccdf"
+    },
+    {
+      "path": "projects/kal_ki_recording/narrated/Viraj_original.wav",
+      "bytes": 5598798,
+      "sha256": "855aaaa22c057dd052e401bdbafa939b30dabf0ec531c0babe910c5f9419ad6a"
+    },
+    {
+      "path": "projects/kal_ki_recording/narrated/sync_timeline.json",
+      "bytes": 7189,
+      "sha256": "ae77b279e113354a5276af4d725735c16afa723d8e88c9bd15b3fa8215f1c29b"
+    },
+    {
+      "path": "projects/kal_ki_recording/narrated/video_filter.txt",
+      "bytes": 1885,
+      "sha256": "9ae59f20cb85806d9315a74ab740eee03c9d0e1e4c0eef70676545c60cd98b4a"
+    },
+    {
+      "path": "projects/kal_ki_recording/narrated/voice_normalized.wav",
+      "bytes": 5598798,
+      "sha256": "e88441596e51955a9d10b1e3b26f2934bf824cbc20cc7c7d109e36355710e9fb"
+    },
+    {
+      "path": "projects/kal_ki_recording/narrated/word_timings.json",
+      "bytes": 9652,
+      "sha256": "c66ebcebcc31f69e605c4eb0629e203ef575167bd23d965035f7c573e33a1111"
+    },
+    {
+      "path": "projects/kal_ki_recording/output/Kal_Ki_Recording_2D_1080p.mp4",
+      "bytes": 3348586,
+      "sha256": "00705663b853befec0fb007010762b4724e6da4c047b8f04eefec19f1323c030"
+    },
+    {
+      "path": "projects/kal_ki_recording/output/Kal_Ki_Recording_2D_4K.mp4",
+      "bytes": 6693255,
+      "sha256": "78c6b32820e9d3361ae81087bf990f1a9d16001b7c2a070102a1c22bb9d35926"
+    },
+    {
+      "path": "projects/kal_ki_recording/output/Kal_Ki_Recording_Hinglish.srt",
+      "bytes": 1538,
+      "sha256": "ed6acf12dda5a5b4cfe48b8bcc88b6db66f1d7f30a10d9be0ae25a195111b371"
+    },
+    {
+      "path": "projects/kal_ki_recording/output/Music_and_Effects.wav",
+      "bytes": 14400044,
+      "sha256": "91e0decfbded0fe818935839b7331eaf87230a8ff04b26b2e8158d229dbe9ad1"
+    },
+    {
+      "path": "projects/kal_ki_recording/output/timeline.json",
+      "bytes": 1900,
+      "sha256": "330894d738e42fac8bb0b232e94690d6c3ce15a986d20c37d1f18e434a95f5d6"
+    },
+    {
+      "path": "projects/kal_ki_recording/output/warning_check.png",
+      "bytes": 51696,
+      "sha256": "ee648bc8e7a57c3d05d6f0a4642ea7e07f1f8a5cbc41a21f83d3cb1b67f9b27d"
+    },
+    {
+      "path": "projects/kal_ki_recording/render.py",
+      "bytes": 23744,
+      "sha256": "34cbf0bb7cc0fb070cd0cc7064cbcf720d05e9361214817290c1c0eb4bd07c69"
+    },
+    {
+      "path": "projects/kal_ki_recording/sync_voice.py",
+      "bytes": 4931,
+      "sha256": "6410185ac5e0c9c1c83abece1e250a885242ddb4c6b6693336278ab48ef8428c"
+    },
+    {
+      "path": "projects/seat_18a/Narration_Hindi.txt",
+      "bytes": 1664,
+      "sha256": "e1632c280cd47cba60b656fb08e77d290b6b1c85cd55be5ec4bd18be7d96325e"
+    },
+    {
+      "path": "projects/seat_18a/README.md",
+      "bytes": 3952,
+      "sha256": "8d6746394a2552e6d3a7c587a020a7e61862c7c4f44449c0d59e93fd5d8f2620"
+    },
+    {
+      "path": "projects/seat_18a/audio/Final_Mix.wav",
+      "bytes": 11520044,
+      "sha256": "45fad80086f4d7bd473d1427f1f12be04f53b53d2a66e76324b63fc16a4aeeb0"
+    },
+    {
+      "path": "projects/seat_18a/audio/Music_and_Effects.wav",
+      "bytes": 11520044,
+      "sha256": "ec66462d6f6464ce58dc87aca83cc34ea14e50a1ed16668c31ce6d177c3fd8ac"
+    },
+    {
+      "path": "projects/seat_18a/audio/Viraj_Synced.wav",
+      "bytes": 5760044,
+      "sha256": "fe06a7c14129e456c3ddc4d67ed190313e17ec0e06e07a9cc39158ea7ccfebdf"
+    },
+    {
+      "path": "projects/seat_18a/audio/Viraj_original.mp3",
+      "bytes": 832189,
+      "sha256": "7ef07a3d3382387be8b073e681918896dcc97438b827c79e3e0dbad85b198362"
+    },
+    {
+      "path": "projects/seat_18a/audio/voice_normalized.wav",
+      "bytes": 4884558,
+      "sha256": "6cefae9e8616b8c45499843ab605b5f8b378b3198410a12254a5b4b2c5496d1e"
+    },
+    {
+      "path": "projects/seat_18a/audio/word_timings.json",
+      "bytes": 7738,
+      "sha256": "2304fef0de89a13fbf5b00b1e0d4a01c4fd52144eda75f73ac97d8b54576fb05"
+    },
+    {
+      "path": "projects/seat_18a/edit.json",
+      "bytes": 1264,
+      "sha256": "d79f5e7b2a16d096877496f081c2949225c161d3261b97d08e4537b383d0dc00"
+    },
+    {
+      "path": "projects/seat_18a/fonts/Mukta-Bold.ttf",
+      "bytes": 418416,
+      "sha256": "7d22891cd57507b04af95a67ffaf59b7073b3595a27d1cfbbcefb418de820a12"
+    },
+    {
+      "path": "projects/seat_18a/fonts/Mukta-ExtraBold.ttf",
+      "bytes": 423168,
+      "sha256": "328eeebffe06fac60d60b46fe60c3995a908d2347e9c285f1eef1a0c9d73e004"
+    },
+    {
+      "path": "projects/seat_18a/fonts/Mukta-OFL.txt",
+      "bytes": 4367,
+      "sha256": "2ee5e8e47cd7d08f60bb9555f72b25912c9e81b13f5bc9a0551ddf943da6ca98"
+    },
+    {
+      "path": "projects/seat_18a/fonts/Mukta-Regular.ttf",
+      "bytes": 432248,
+      "sha256": "2958e4af564507df2a856164df6f9978dacb03f999a4f34a0c269dc8a4de9688"
+    },
+    {
+      "path": "projects/seat_18a/output/Seat_18A_1080p.mp4",
+      "bytes": 4753491,
+      "sha256": "5be5aaf7ef3af4487943775ad1f5c2be4b364a967ab7368fa4184895978c0fc1"
+    },
+    {
+      "path": "projects/seat_18a/output/Seat_18A_4K.mp4",
+      "bytes": 7917078,
+      "sha256": "bdec9c88a5bc08ee8ca2095db338751f62311eed86a80caf93509bc92cf33f26"
+    },
+    {
+      "path": "projects/seat_18a/output/Seat_18A_Hinglish.srt",
+      "bytes": 1539,
+      "sha256": "d4a9e23d7291f8c5134e192513352fc6da12c28d121edefa1c36f66d2b888f22"
+    },
+    {
+      "path": "projects/seat_18a/prepare.py",
+      "bytes": 6488,
+      "sha256": "02f4ba9e18b231bd4c69865c0702bdb22eecfe2d4e1164321709461bb42764d9"
+    },
+    {
+      "path": "projects/seat_18a/primitives.py",
+      "bytes": 1657,
+      "sha256": "9a644545bd5a26d3c732f1c9aa8b78970910cf5294c4130c5ad617d232150dfb"
+    },
+    {
+      "path": "projects/seat_18a/render.py",
+      "bytes": 13815,
+      "sha256": "1d7219dbe63768812ff073ea25376d559655f6fee58c1ea8f6348bd305917cca"
+    },
+    {
+      "path": "projects/seat_18a/requirements.txt",
+      "bytes": 19,
+      "sha256": "11fa2c80dfc563bb4a2858a024662dcb8ec48cf2c376403a12999a62dce5ab17"
+    },
+    {
+      "path": "projects/seat_18a/timeline.json",
+      "bytes": 2655,
+      "sha256": "1a00717640c8ef51dc621e915e4ecde3c303d674d93163719bb1b0847d15b0ff"
+    },
+    {
+      "path": "thumbnails/Aakhri_Diya_Thumbnail_9x16.png",
+      "bytes": 1409493,
+      "sha256": "d04a0e7ef0557f6d92c475ee233710c496a24982ce4a38d8d754971936e6fafa"
+    },
+    {
+      "path": "thumbnails/Attendance_Thumbnail_9x16.png",
+      "bytes": 1373572,
+      "sha256": "8eebda2b93c69b4c853e98d4c9eb4d55050f703bf74792a6fa58d39973e5ee6b"
+    },
+    {
+      "path": "thumbnails/CCTV Recording From Tomorrow.png",
+      "bytes": 1506812,
+      "sha256": "c7d0be9cc9483370f4be6d473fad061d4bff5798aa4719f8274a4dbc15e4a023"
+    },
+    {
+      "path": "thumbnails/Chhat_Par_Maa_Thumbnail.png",
+      "bytes": 127882,
+      "sha256": "04cc67ca626789a54f582f9dc2f11d63f92e44cff34cefea668a7ab3d6186a49"
+    },
+    {
+      "path": "thumbnails/Crimson Hindi horror CTA end card.png",
+      "bytes": 1253086,
+      "sha256": "3a726f815f66c6fead6e54a722c527f3206ca3d414225598f20fffcc2be879ff"
+    },
+    {
+      "path": "thumbnails/Do_Second_Late_Thumbnail_9x16.png",
+      "bytes": 149846,
+      "sha256": "c547b646db8d383bba8c5a6c1ef529d086f6a12a2379f09bfffa3b36dbdde992"
+    },
+    {
+      "path": "thumbnails/Doosra_Helmet_Thumbnail_9x16.png",
+      "bytes": 1500415,
+      "sha256": "39375a35053ed743206ff1cc5485b3b286196c039e25230161d3c191f1cd18e9"
+    },
+    {
+      "path": "thumbnails/Ek_Floor_Neeche_Thumbnail_9x16.png",
+      "bytes": 1392291,
+      "sha256": "8d6c30b0613771b6733fcfe9ba093ac82286b2b903fe813096624c859661cb80"
+    },
+    {
+      "path": "thumbnails/Haunted airport, Seat 18 A.png",
+      "bytes": 2491580,
+      "sha256": "59d2495b1b3725d369271dd836fa4433d79be9c33bdcaf3182af0ddbcb971510"
+    },
+    {
+      "path": "thumbnails/Ravi\u2019s Ticket 08 on the Eerie Bus.png",
+      "bytes": 1430294,
+      "sha256": "3ab75935a1fd5ec4d7994569e6312278f9efd970f992918b5955dba59263ade6"
+    },
+    {
+      "path": "thumbnails/Seat_18A_Thumbnail_9x16.png",
+      "bytes": 1516353,
+      "sha256": "ac6160c7dafb8ada5beea5f3bba0b77f4d5418c765c5dc0de0af399cd98dbe7c"
+    },
+    {
+      "path": "thumbnails/The Last Diya and the Shadow.png",
+      "bytes": 2580742,
+      "sha256": "7ee697a3a5029b5655331fd298f24af7330f091911e794b6d71c2952121ecf6a"
+    },
+    {
+      "path": "thumbnails/Two Seconds Late at the Mirror.png",
+      "bytes": 1634841,
+      "sha256": "093d09b2d040b966a07806458801cb68cd66c5f92e6960c187dd5186b09b4082"
+    },
+    {
+      "path": "thumbnails/Who\u2019s Sitting Behind Him?.png",
+      "bytes": 2948130,
+      "sha256": "d7ad65e61dc89c7617462e8f39a9b61b939e5779ad8eb1207e5b6326bcf76ccd"
+    },
+    {
+      "path": "thumbnails/Who\u2019s in the Empty Office?.png",
+      "bytes": 2749386,
+      "sha256": "df73b7e36675f97f49527a09ed93ed525c08af8345dd9ddd2aea6184cfaa474b"
+    }
+  ]
+}
